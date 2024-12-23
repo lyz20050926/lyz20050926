@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋,I'm Levis
 
 # 🌱 I’m currently learning ...
 -**C/C++**
@@ -10,6 +10,9 @@
 # 🤔 I’m looking for help with ...
 -**Unity foundamentals**
 -**Deep learning foundamentals**
+# My dream...
+-**creat an AR gaming company that change the format of game**
+
 <!--
 **lyz20050926/lyz20050926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
