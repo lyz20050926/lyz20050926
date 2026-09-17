@@ -1,26 +1,22 @@
 <p align="center">
   <samp>
     <b>Yingzheng Lin</b>
+    <br>
+    EEE @ NTU Singapore
     <br><br>
     machine learning · large language models · agents
-    <br><br>
-    <a href="https://github.com/lyz20050926/Atlas">atlas</a>
-    ·
-    <a href="https://github.com/lyz20050926?tab=repositories">projects</a>
   </samp>
 </p>
 
 <br>
 
-I'm an Electrical & Electronic Engineering undergraduate at **Nanyang Technological University, Singapore**.
+I build focused AI systems around **retrieval, agents, evaluation, and adaptive learning**.
 
-Currently exploring **machine learning and large language models**, with a particular interest in agents, retrieval, evaluation, and building useful AI systems.
+### Selected work
 
-### Atlas
+**[Atlas](https://github.com/lyz20050926/Atlas)** — an agentic reading companion that turns a learning goal into a personalized reading path, verifies book information, supports interactive study, and adapts from learner feedback.
 
-**[Atlas](https://github.com/lyz20050926/Atlas)** — an agentic reading companion that builds personalized learning paths, verifies book information, supports interactive learning, and adapts recommendations from learner feedback.
-
-`LLMs` · `Machine Learning` · `AI Agents` · `RAG`
+<sub>Python · LangGraph · Streamlit · AWS Bedrock · RAG</sub>
 
 <br>
 
