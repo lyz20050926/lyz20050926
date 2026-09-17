@@ -1,30 +1,29 @@
-## Hi there 👋,I'm Levis
+<p align="center">
+  <samp>
+    <b>Yingzheng Lin</b>
+    <br><br>
+    machine learning · large language models · agents
+    <br><br>
+    <a href="https://github.com/lyz20050926/Atlas">atlas</a>
+    ·
+    <a href="https://github.com/lyz20050926?tab=repositories">projects</a>
+  </samp>
+</p>
 
-# 🌱 I’m currently learning ...
--**C/C++**
--**Python**
--**Computer Foundamentals**
--**Principle of Information System**
-# 👯I’m looking to collaborate on ...
--**application of non-invasive brain-computer interfaces in AR games**
-# 🤔 I’m looking for help with ...
--**Unity foundamentals**
--**Deep learning foundamentals**
-# My dream...
--**creat an AR gaming company that change the format of game**
+<br>
 
-<!--
-**lyz20050926/lyz20050926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electrical & Electronic Engineering undergraduate at **Nanyang Technological University, Singapore**.
 
-Here are some ideas to get you started:
+Currently exploring **machine learning and large language models**, with a particular interest in agents, retrieval, evaluation, and building useful AI systems.
 
-# 🔭 I’m currently working on ...
+### Atlas
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Atlas](https://github.com/lyz20050926/Atlas)** — an agentic reading companion that builds personalized learning paths, verifies book information, supports interactive learning, and adapts recommendations from learner feedback.
+
+`LLMs` · `Machine Learning` · `AI Agents` · `RAG`
+
+<br>
+
+<p align="center">
+  <samp>learning by building.</samp>
+</p>
